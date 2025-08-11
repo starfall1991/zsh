@@ -1,5 +1,7 @@
-install zsh, zoxide
-put .zshrc into ~/
-then run zsh command
+- install zsh, zoxide
 
-empty or move all paths from .bashrc to .zshrc
+- put .zshrc into ~/
+
+- then run zsh command
+
+- empty or move all paths from .bashrc to .zshrc
